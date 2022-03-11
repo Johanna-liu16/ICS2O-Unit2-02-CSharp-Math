@@ -10,6 +10,10 @@ class Program
   
   public static void Main (string[] args) 
   {
-    Console.WriteLine ("Hello World");
+    Console.WriteLine ("The dimentions of a rectangle is 2 cm and 5 cm.");
+    Console.WriteLine ("The area is: " + (2 * 5) + "cm²");
+    Console.WriteLine ("The perimeter is: " + (2 * (2 + 5)) + "cm");
+
+    Console.WriteLine ("\nDone.");
   }
 }
