@@ -7,7 +7,6 @@ using System;
 
 class Program 
 {
-  
   public static void Main (string[] args) 
   {
     Console.WriteLine ("The dimensions of a rectangle is 2 cm and 5 cm.");
